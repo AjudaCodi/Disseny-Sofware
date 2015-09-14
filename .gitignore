@@ -1,0 +1,9 @@
+# treballem amb vim
+*.swp
+
+# no volem basula latexiana
+*.aux
+*.log
+*.pdf
+*.dvi
+
